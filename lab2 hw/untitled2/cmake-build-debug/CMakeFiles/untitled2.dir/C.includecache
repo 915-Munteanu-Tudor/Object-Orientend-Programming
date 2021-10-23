@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/materiale/sem2/oop/untitled2/DynamicArray.c
+DynamicArray.h
+T:/materiale/sem2/oop/untitled2/DynamicArray.h
+stdlib.h
+-
+assert.h
+-
+
+T:/materiale/sem2/oop/untitled2/DynamicArray.h
+Planet.h
+T:/materiale/sem2/oop/untitled2/Planet.h
+
+T:/materiale/sem2/oop/untitled2/Planet.h
+

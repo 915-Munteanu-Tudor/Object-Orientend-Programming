@@ -1,0 +1,15 @@
+"T:\clion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe" "-DCMAKE_C_COMPILER=C:/Program Files/CodeBlocks/MinGW/bin/gcc.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files/CodeBlocks/MinGW/bin/g++.exe" -DCMAKE_CXX_FLAGS=--coverage -DCMAKE_C_FLAGS=--coverage -G "CodeBlocks - MinGW Makefiles" "T:\materiale\sem2\oop\cpy lb4"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download
+[ 11%] Performing update step for 'googletest'
+[ 22%] No patch step for 'googletest'
+[ 33%] No configure step for 'googletest'
+[ 44%] No build step for 'googletest'
+[ 55%] No install step for 'googletest'
+[ 66%] No test step for 'googletest'
+[ 77%] Completed 'googletest'
+[100%] Built target googletest
+-- Configuring done
+-- Generating done
+-- Build files have been written to: T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage

@@ -1,0 +1,3 @@
+"T:\clion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\LAB_4_OOP.dir/objects.a
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\LAB_4_OOP.dir/objects.a @CMakeFiles\LAB_4_OOP.dir\objects1.rsp
+C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE --coverage -std=c++11 -g -Wl,--whole-archive CMakeFiles\LAB_4_OOP.dir/objects.a -Wl,--no-whole-archive -o LAB_4_OOP.exe -Wl,--out-implib,libLAB_4_OOP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LAB_4_OOP.dir\linklibs.rsp

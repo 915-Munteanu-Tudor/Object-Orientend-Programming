@@ -1,0 +1,3 @@
+T:/materiale/transformer/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/transformer/cmake-build-debug/CMakeFiles/transformer.dir
+T:/materiale/transformer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

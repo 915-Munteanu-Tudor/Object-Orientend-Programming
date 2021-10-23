@@ -1,0 +1,3 @@
+T:/materiale/wr1/cmake-build-debug/CMakeFiles/wr1.dir
+T:/materiale/wr1/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/wr1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

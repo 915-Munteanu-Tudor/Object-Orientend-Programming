@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/materiale/romana_scris_clase/main.cpp
+iostream
+-
+string
+-
+utility
+-
+vector
+-
+algorithm
+-
+

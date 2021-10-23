@@ -1,0 +1,3 @@
+T:/materiale/sem2/oop/examen_lucrat/code_revision/cmake-build-debug/CMakeFiles/code_revision.dir
+T:/materiale/sem2/oop/examen_lucrat/code_revision/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/sem2/oop/examen_lucrat/code_revision/cmake-build-debug/CMakeFiles/rebuild_cache.dir

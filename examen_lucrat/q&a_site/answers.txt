@@ -1,0 +1,11 @@
+1;1;Jinga;6 cai frumosi;10
+2;1;Borza;2 cai;5
+3;4;Anca;il pazim pe borza;100
+4;3;Cosmin;nu ne pasa;7
+5;2;Pop;Rusia;100
+6;2;Anca;Oradea;50
+7;2;Cosmin;Bibi;33
+8;4;Jinga;pazim DSA;80
+9;4;Borza;nimic;6
+10;4;Mihai Alin;eul academic;1
+11;2;Ionela;spatele clasei;40

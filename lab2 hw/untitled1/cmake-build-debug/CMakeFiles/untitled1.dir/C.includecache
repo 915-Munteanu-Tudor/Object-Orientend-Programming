@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/materiale/sem2/oop/lab2 hw/untitled1/DinamicArray.c
+DinamicArray.h
+T:/materiale/sem2/oop/lab2 hw/untitled1/DinamicArray.h
+stdlib.h
+-
+assert.h
+-
+string.h
+-
+stdio.h
+-
+
+T:/materiale/sem2/oop/lab2 hw/untitled1/DinamicArray.h
+Medicine.h
+T:/materiale/sem2/oop/lab2 hw/untitled1/Medicine.h
+
+T:/materiale/sem2/oop/lab2 hw/untitled1/Medicine.c
+Medicine.h
+T:/materiale/sem2/oop/lab2 hw/untitled1/Medicine.h
+string.h
+-
+stdio.h
+-
+
+T:/materiale/sem2/oop/lab2 hw/untitled1/Medicine.h
+
+T:/materiale/sem2/oop/lab2 hw/untitled1/Ui.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+DinamicArray.h
+T:/materiale/sem2/oop/lab2 hw/untitled1/DinamicArray.h
+repo.h
+T:/materiale/sem2/oop/lab2 hw/untitled1/repo.h
+
+T:/materiale/sem2/oop/lab2 hw/untitled1/Ui.h
+
+T:/materiale/sem2/oop/lab2 hw/untitled1/main.c
+Ui.h
+T:/materiale/sem2/oop/lab2 hw/untitled1/Ui.h
+crtdbg.h
+-
+stdio.h
+-
+DinamicArray.h
+T:/materiale/sem2/oop/lab2 hw/untitled1/DinamicArray.h
+
+T:/materiale/sem2/oop/lab2 hw/untitled1/repo.c
+DinamicArray.h
+T:/materiale/sem2/oop/lab2 hw/untitled1/DinamicArray.h
+
+T:/materiale/sem2/oop/lab2 hw/untitled1/repo.h
+

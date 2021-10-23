@@ -1,0 +1,3 @@
+T:/materiale/sem2/oop/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/sem2/oop/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+T:/materiale/sem2/oop/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/materiale/WR2/main.cpp
+iostream
+-
+cassert
+-
+sstream
+T:/materiale/WR2/sstream
+cstring
+T:/materiale/WR2/cstring
+

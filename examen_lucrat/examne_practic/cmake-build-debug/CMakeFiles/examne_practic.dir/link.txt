@@ -1,0 +1,3 @@
+"T:\clion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\examne_practic.dir/objects.a
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\examne_practic.dir/objects.a @CMakeFiles\examne_practic.dir\objects1.rsp
+C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE  -std=c++11 -g -Wl,--whole-archive CMakeFiles\examne_practic.dir/objects.a -Wl,--no-whole-archive -o examne_practic.exe -Wl,--out-implib,libexamne_practic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\examne_practic.dir\linklibs.rsp

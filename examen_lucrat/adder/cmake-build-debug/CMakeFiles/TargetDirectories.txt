@@ -1,0 +1,3 @@
+T:/materiale/adder/cmake-build-debug/CMakeFiles/written_row2.dir
+T:/materiale/adder/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/adder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

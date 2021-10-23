@@ -1,0 +1,3 @@
+T:/materiale/screen_writing/cmake-build-debug/CMakeFiles/screen_writing.dir
+T:/materiale/screen_writing/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/screen_writing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

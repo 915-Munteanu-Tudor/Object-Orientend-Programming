@@ -1,0 +1,3 @@
+"T:\clion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\q_a_site.dir/objects.a
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\q_a_site.dir/objects.a @CMakeFiles\q_a_site.dir\objects1.rsp
+C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE  -std=c++11 -g -Wl,--whole-archive CMakeFiles\q_a_site.dir/objects.a -Wl,--no-whole-archive -o q_a_site.exe -Wl,--out-implib,libq_a_site.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\q_a_site.dir\linklibs.rsp

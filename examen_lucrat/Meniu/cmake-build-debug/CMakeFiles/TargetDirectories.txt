@@ -1,0 +1,3 @@
+T:/materiale/Meniu/cmake-build-debug/CMakeFiles/Meniu.dir
+T:/materiale/Meniu/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/Meniu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

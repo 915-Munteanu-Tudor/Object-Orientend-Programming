@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/materiale/wr1/main.cpp
+iostream
+-
+utility
+-
+cstring
+-
+vector
+T:/materiale/wr1/vector
+error.h
+T:/materiale/wr1/error.h
+string
+T:/materiale/wr1/string
+fstream
+T:/materiale/wr1/fstream
+ostream
+T:/materiale/wr1/ostream
+cassert
+T:/materiale/wr1/cassert
+

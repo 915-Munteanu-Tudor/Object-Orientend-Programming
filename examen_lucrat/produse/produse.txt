@@ -1,0 +1,7 @@
+1;cal;corcitura;100
+2;aspirator;exotic;94
+3;cafetiera;veche;57
+4;perdea;matase;23
+5;carte;groasa;69
+6;canapea;veche,72
+7;caine;corcitura;34

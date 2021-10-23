@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.17)
+project(test_romana)
+
+set(CMAKE_CXX_STANDARD 14)
+add_compile_options(-l sqlite3)
+add_executable(test_romana main.cpp Concert.cpp Concert.h Data.cpp Data.h Repository.cpp Repository.h Service.cpp Service.h Qt/QtUi.cpp Qt/QtUi.h Qt/QtMenu.cpp Qt/QtMenu.h)
+set(CMAKE_PREFIX_PATH "C:\\Qt\\5.15.2\\mingw81_64\\")
+find_package(Qt5Widgets REQUIRED)
+find_package(Qt5Sql REQUIRED)
+target_link_libraries(test_romana Qt5::Widgets Qt5::Sql)
+target_link_libraries(${PROJECT_NAME} Qt5::Widgets)

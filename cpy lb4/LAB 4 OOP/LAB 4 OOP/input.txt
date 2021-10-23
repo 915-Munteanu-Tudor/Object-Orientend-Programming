@@ -1,0 +1,5 @@
+labrador,Jackie,1,http://www.zooland.ro/data/Image/image/cainele-alb.jpg
+pitbull,Pitty,3,https://www.animalzoo.ro/wp-content/uploads/2017/05/cu11-604x515.jpg
+maidanez,Bruno,5,http://www.magazinoutdoor.ro/blog/wp-content/uploads/2019/12/caine-de-vanatoare-Pointer.jpg
+bichon,Bob,2,http://www.magazinoutdoor.ro/blog/wp-content/uploads/2019/12/Golden-Retriever.jpg
+asd,vvvv,56,wwwqrdsf

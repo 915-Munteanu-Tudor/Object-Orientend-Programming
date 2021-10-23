@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/CMakeFiles/googletest
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/CMakeFiles/googletest.rule
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/CMakeFiles/googletest-complete.rule
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+T:/materiale/sem2/oop/cpy lb4/cmake-build-debug-coverage/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule

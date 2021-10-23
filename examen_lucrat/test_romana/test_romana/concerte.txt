@@ -1,0 +1,6 @@
+formatie1;03/09;50;100
+formatie2;04/05;67;213
+formatie3;03/09;55;170
+formatie4;02/05;64;35
+formatie5;04/09;57;56
+formatie6;06/05;62;32

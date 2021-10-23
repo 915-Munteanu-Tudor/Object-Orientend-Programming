@@ -1,0 +1,3 @@
+T:/materiale/produse/cmake-build-debug/CMakeFiles/produse.dir
+T:/materiale/produse/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/produse/cmake-build-debug/CMakeFiles/rebuild_cache.dir

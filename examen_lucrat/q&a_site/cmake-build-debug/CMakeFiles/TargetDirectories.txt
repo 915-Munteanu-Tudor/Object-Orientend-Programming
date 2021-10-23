@@ -1,0 +1,3 @@
+T:/materiale/q&a_site/cmake-build-debug/CMakeFiles/q_a_site.dir
+T:/materiale/q&a_site/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/q&a_site/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+T:/materiale/pb_written4/cmake-build-debug/CMakeFiles/pb_written4.dir
+T:/materiale/pb_written4/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/pb_written4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

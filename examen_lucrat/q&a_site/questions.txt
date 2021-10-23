@@ -1,0 +1,4 @@
+1;Cati cai pot fi inhamati maxim la o caruta?;Anca
+2;Care este capitala Angliei?;Jinga
+3;Ce parere aveti despre AUR?;Mihai Alin
+4;Ce paziti?;Cosmin

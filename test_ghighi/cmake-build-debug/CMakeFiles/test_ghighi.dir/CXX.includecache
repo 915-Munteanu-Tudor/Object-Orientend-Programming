@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/materiale/test_ghighi/Concurent.h
+Persoana.h
+T:/materiale/test_ghighi/Persoana.h
+string
+-
+fstream
+-
+
+T:/materiale/test_ghighi/Persoana.h
+string
+-
+
+T:/materiale/test_ghighi/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+Concurent.h
+T:/materiale/test_ghighi/Concurent.h
+
