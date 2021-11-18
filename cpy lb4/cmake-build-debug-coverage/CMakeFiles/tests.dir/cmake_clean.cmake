@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.obj"
   "CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.obj"
   "CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.obj"
   "CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.obj"

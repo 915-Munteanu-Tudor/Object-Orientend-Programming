@@ -61,10 +61,10 @@ RM = "T:\clion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "T:\materiale\sem2\oop\cpy lb4"
+CMAKE_SOURCE_DIR = "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "T:\materiale\sem2\oop\cpy lb4\cmake-build-debug-coverage"
+CMAKE_BINARY_DIR = "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\cmake-build-debug-coverage"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/tests.dir/depend.make
@@ -78,65 +78,50 @@ include CMakeFiles/tests.dir/flags.make
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.obj: CMakeFiles/tests.dir/flags.make
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.obj: CMakeFiles/tests.dir/includes_CXX.rsp
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.obj: ../LAB\ 4\ OOP/LAB\ 4\ OOP/app.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="T:\materiale\sem2\oop\cpy lb4\cmake-build-debug-coverage\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\app.cpp.obj -c "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\LAB 4 OOP\app.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\cmake-build-debug-coverage\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\app.cpp.obj -c "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\LAB 4 OOP\LAB 4 OOP\app.cpp"
 
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\LAB 4 OOP\app.cpp" > CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\app.cpp.i
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\LAB 4 OOP\LAB 4 OOP\app.cpp" > CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\app.cpp.i
 
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\LAB 4 OOP\app.cpp" -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\app.cpp.s
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\LAB 4 OOP\LAB 4 OOP\app.cpp" -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\app.cpp.s
 
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.obj: CMakeFiles/tests.dir/flags.make
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.obj: CMakeFiles/tests.dir/includes_CXX.rsp
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.obj: ../LAB\ 4\ OOP/LAB\ 4\ OOP/Dog.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="T:\materiale\sem2\oop\cpy lb4\cmake-build-debug-coverage\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\Dog.cpp.obj -c "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\LAB 4 OOP\Dog.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\cmake-build-debug-coverage\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\Dog.cpp.obj -c "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\LAB 4 OOP\LAB 4 OOP\Dog.cpp"
 
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\LAB 4 OOP\Dog.cpp" > CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\Dog.cpp.i
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\LAB 4 OOP\LAB 4 OOP\Dog.cpp" > CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\Dog.cpp.i
 
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\LAB 4 OOP\Dog.cpp" -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\Dog.cpp.s
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\LAB 4 OOP\LAB 4 OOP\Dog.cpp" -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\Dog.cpp.s
 
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.obj: CMakeFiles/tests.dir/flags.make
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.obj: CMakeFiles/tests.dir/includes_CXX.rsp
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.obj: ../LAB\ 4\ OOP/LAB\ 4\ OOP/DynamicArrayItterator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="T:\materiale\sem2\oop\cpy lb4\cmake-build-debug-coverage\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\DynamicArrayItterator.cpp.obj -c "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\LAB 4 OOP\DynamicArrayItterator.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\cmake-build-debug-coverage\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\DynamicArrayItterator.cpp.obj -c "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\LAB 4 OOP\LAB 4 OOP\DynamicArrayItterator.cpp"
 
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\LAB 4 OOP\DynamicArrayItterator.cpp" > CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\DynamicArrayItterator.cpp.i
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\LAB 4 OOP\LAB 4 OOP\DynamicArrayItterator.cpp" > CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\DynamicArrayItterator.cpp.i
 
 CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\LAB 4 OOP\DynamicArrayItterator.cpp" -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\DynamicArrayItterator.cpp.s
-
-CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.obj: CMakeFiles/tests.dir/flags.make
-CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.obj: CMakeFiles/tests.dir/includes_CXX.rsp
-CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.obj: ../LAB\ 4\ OOP/ComplexTests/ComplexTests.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="T:\materiale\sem2\oop\cpy lb4\cmake-build-debug-coverage\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.obj"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tests.dir\LAB_4_OOP\ComplexTests\ComplexTests.cpp.obj -c "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\ComplexTests\ComplexTests.cpp"
-
-CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.i"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\ComplexTests\ComplexTests.cpp" > CMakeFiles\tests.dir\LAB_4_OOP\ComplexTests\ComplexTests.cpp.i
-
-CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.s"
-	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "T:\materiale\sem2\oop\cpy lb4\LAB 4 OOP\ComplexTests\ComplexTests.cpp" -o CMakeFiles\tests.dir\LAB_4_OOP\ComplexTests\ComplexTests.cpp.s
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\LAB 4 OOP\LAB 4 OOP\DynamicArrayItterator.cpp" -o CMakeFiles\tests.dir\LAB_4_OOP\LAB_4_OOP\DynamicArrayItterator.cpp.s
 
 # Object files for target tests
 tests_OBJECTS = \
 "CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.obj" \
 "CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.obj" \
-"CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.obj" \
-"CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.obj"
+"CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.obj"
 
 # External object files for target tests
 tests_EXTERNAL_OBJECTS =
@@ -144,14 +129,11 @@ tests_EXTERNAL_OBJECTS =
 tests.exe: CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/app.cpp.obj
 tests.exe: CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/Dog.cpp.obj
 tests.exe: CMakeFiles/tests.dir/LAB_4_OOP/LAB_4_OOP/DynamicArrayItterator.cpp.obj
-tests.exe: CMakeFiles/tests.dir/LAB_4_OOP/ComplexTests/ComplexTests.cpp.obj
 tests.exe: CMakeFiles/tests.dir/build.make
-tests.exe: lib/libgtest_maind.a
-tests.exe: lib/libgtestd.a
 tests.exe: CMakeFiles/tests.dir/linklibs.rsp
 tests.exe: CMakeFiles/tests.dir/objects1.rsp
 tests.exe: CMakeFiles/tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="T:\materiale\sem2\oop\cpy lb4\cmake-build-debug-coverage\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable tests.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\cmake-build-debug-coverage\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable tests.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\tests.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -164,6 +146,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "T:\materiale\sem2\oop\cpy lb4" "T:\materiale\sem2\oop\cpy lb4" "T:\materiale\sem2\oop\cpy lb4\cmake-build-debug-coverage" "T:\materiale\sem2\oop\cpy lb4\cmake-build-debug-coverage" "T:\materiale\sem2\oop\cpy lb4\cmake-build-debug-coverage\CMakeFiles\tests.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4" "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4" "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\cmake-build-debug-coverage" "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\cmake-build-debug-coverage" "T:\materiale\an1\sem2\oop\Object-Orientend-Programming git\cpy lb4\cmake-build-debug-coverage\CMakeFiles\tests.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 

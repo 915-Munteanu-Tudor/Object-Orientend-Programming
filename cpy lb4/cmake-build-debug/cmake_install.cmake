@@ -1,4 +1,4 @@
-# Install script for directory: T:/materiale/sem2/oop/cpy lb4
+# Install script for directory: T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "T:/materiale/sem2/oop/cpy lb4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
