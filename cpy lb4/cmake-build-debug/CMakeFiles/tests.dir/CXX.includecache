@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../LAB 4 OOP/LAB 4 OOP/Dog.h
+iostream
+-
+
+../LAB 4 OOP/LAB 4 OOP/repoDog.h
+vector
+-
+memory
+-
+Dog.h
+../LAB 4 OOP/LAB 4 OOP/Dog.h
+
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/Dog.cpp
+Dog.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/Dog.h
+iostream
+-
+sstream
+-
+
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/Dog.h
+iostream
+-
+
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/DynamicArray.h
+Dog.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/Dog.h
+DynamicArrayItterator.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/DynamicArrayItterator.h
+iostream
+-
+cstring
+-
+
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/DynamicArrayItterator.cpp
+DynamicArrayItterator.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/DynamicArrayItterator.h
+DynamicArray.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/DynamicArray.h
+exception
+-
+
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/DynamicArrayItterator.h
+Dog.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/Dog.h
+
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/adoption.h
+vector
+-
+repoDog.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/repoDog.h
+
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/app.cpp
+app.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/app.h
+exceptions.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/exceptions.h
+iostream
+-
+cstring
+-
+fstream
+-
+repoDog.h
+-
+
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/app.h
+memory
+-
+validators.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/validators.h
+repoDog.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/repoDog.h
+adoption.h
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/adoption.h
+
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/exceptions.h
+exception
+-
+string
+-
+
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/LAB 4 OOP/LAB 4 OOP/validators.h
+

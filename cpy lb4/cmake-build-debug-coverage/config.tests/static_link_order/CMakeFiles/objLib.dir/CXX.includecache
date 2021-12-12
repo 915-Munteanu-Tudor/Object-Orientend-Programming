@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/Qt/Tools/QtDesignStudio-2.3.0-preview/qt6_design_studio_reduced_version/lib/cmake/Qt6/config.tests/static_link_order/objlib.cpp
+

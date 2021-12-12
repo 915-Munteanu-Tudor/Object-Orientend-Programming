@@ -250,6 +250,9 @@ LAB_4_OOP_BINARY_DIR:STATIC=T:/materiale/an1/sem2/oop/Object-Orientend-Programmi
 //Value Computed by CMake
 LAB_4_OOP_SOURCE_DIR:STATIC=T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4
 
+//Additional directories where find(Qt6 ...) components are searched
+QT_ADDITIONAL_PACKAGES_PREFIX_PATH:STRING=
+
 //The directory containing a CMake configuration file for Qt5Core.
 Qt5Core_DIR:PATH=C:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Core
 
@@ -261,6 +264,27 @@ Qt5Sql_DIR:PATH=C:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql
 
 //The directory containing a CMake configuration file for Qt5Widgets.
 Qt5Widgets_DIR:PATH=C:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets
+
+//The directory containing a CMake configuration file for Qt6CoreTools.
+Qt6CoreTools_DIR:PATH=T:/Qt/Tools/QtDesignStudio-2.3.0-preview/qt6_design_studio_reduced_version/lib/cmake/Qt6CoreTools
+
+//The directory containing a CMake configuration file for Qt6Core.
+Qt6Core_DIR:PATH=T:/Qt/Tools/QtDesignStudio-2.3.0-preview/qt6_design_studio_reduced_version/lib/cmake/Qt6Core
+
+//The directory containing a CMake configuration file for Qt6EntryPointPrivate.
+Qt6EntryPointPrivate_DIR:PATH=T:/Qt/Tools/QtDesignStudio-2.3.0-preview/qt6_design_studio_reduced_version/lib/cmake/Qt6EntryPointPrivate
+
+//The directory containing a CMake configuration file for Qt6GuiTools.
+Qt6GuiTools_DIR:PATH=T:/Qt/Tools/QtDesignStudio-2.3.0-preview/qt6_design_studio_reduced_version/lib/cmake/Qt6GuiTools
+
+//The directory containing a CMake configuration file for Qt6WidgetsTools.
+Qt6WidgetsTools_DIR:PATH=T:/Qt/Tools/QtDesignStudio-2.3.0-preview/qt6_design_studio_reduced_version/lib/cmake/Qt6WidgetsTools
+
+//The directory containing a CMake configuration file for Qt6Widgets.
+Qt6Widgets_DIR:PATH=T:/Qt/Tools/QtDesignStudio-2.3.0-preview/qt6_design_studio_reduced_version/lib/cmake/Qt6Widgets
+
+//The directory containing a CMake configuration file for Qt6.
+Qt6_DIR:PATH=T:/Qt/Tools/QtDesignStudio-2.3.0-preview/qt6_design_studio_reduced_version/lib/cmake/Qt6
 
 
 ########################
@@ -355,6 +379,10 @@ CMAKE_GENERATOR_INSTANCE:INTERNAL=
 CMAKE_GENERATOR_PLATFORM:INTERNAL=
 //Name of generator toolset.
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
+//Test CMAKE_HAVE_LIBC_PTHREAD
+CMAKE_HAVE_LIBC_PTHREAD:INTERNAL=1
+//Have include pthread.h
+CMAKE_HAVE_PTHREAD_H:INTERNAL=1
 //Source directory with the top level CMakeLists.txt file for this
 // project
 CMAKE_HOME_DIRECTORY:INTERNAL=T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4
@@ -427,4 +455,14 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 CMAKE_STRIP-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding Threads
+FIND_PACKAGE_MESSAGE_DETAILS_Threads:INTERNAL=[TRUE][v()]
+//Details about finding WrapAtomic
+FIND_PACKAGE_MESSAGE_DETAILS_WrapAtomic:INTERNAL=[1][v()]
+//Test HAVE_STDATOMIC
+HAVE_STDATOMIC:INTERNAL=1
+//Link order matters
+QT_HAVE_LINK_ORDER_MATTERS:INTERNAL=TRUE
+//Result of TRY_COMPILE
+link_order_matters:INTERNAL=FALSE
 

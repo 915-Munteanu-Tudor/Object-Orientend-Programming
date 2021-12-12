@@ -1,0 +1,5 @@
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/cmake-build-debug/config.tests/static_link_order/CMakeFiles/objLib.dir
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/cmake-build-debug/config.tests/static_link_order/CMakeFiles/staticLib.dir
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/cmake-build-debug/config.tests/static_link_order/CMakeFiles/edit_cache.dir
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/cmake-build-debug/config.tests/static_link_order/CMakeFiles/static_link_order_test.dir
+T:/materiale/an1/sem2/oop/Object-Orientend-Programming git/cpy lb4/cmake-build-debug/config.tests/static_link_order/CMakeFiles/rebuild_cache.dir
